@@ -1,0 +1,17 @@
+.logo {
+  border-radius: 5px;
+}
+
+.instagram {
+  margin: 5px 0px 0px 50px;
+}
+
+#member-items {
+  display: flex;
+  justify-content: center;
+}
+
+#footer .row {
+  display: flex;
+  justify-content: center;
+}
